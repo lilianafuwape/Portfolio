@@ -13,4 +13,5 @@ Data Analytics Portfolio
 ![](images/HR Report Dashboard - Case 1.png)
 ## HR Report Dashboard - Case 2
 ![](HR Report Dashboard - Case 2A.png)
+
 ![](HR Report Dashboard - Case 2B.png)
